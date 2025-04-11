@@ -1,0 +1,22 @@
+# Ignore environment files
+**/.env
+
+# Python-related files and folders
+**/__pycache__/
+**/*.py[cod]
+**/*.env
+backend/env/         # or your chosen virtual environment folder name
+venv/
+
+# Node related files
+frontend/node_modules/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others (logs, etc.)
+*.log
