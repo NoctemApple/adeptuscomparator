@@ -6,6 +6,9 @@ Yes its Adeptus inspired from 40k
 
 ### Tech Stack
 Backend = Django
+
 Frontend = React
+
 Database = PostgreSQL
+
 Data Tool = Beautiful soup / Selenium
